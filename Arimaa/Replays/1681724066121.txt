@@ -1,0 +1,10 @@
+1g Ra2 Cb2 Dc2 Md2 Re2 Hf2 Rg2 Eh2 Da1 Rb1 Rc1 Hd1 Re1 Rf1 Rg1 Ch1
+1s ra8 hb8 cc8 rd8 re8 mf8 cg8 dh8 ea7 rb7 rc7 rd7 re7 hf7 rg7 dh7
+2g Re2n Re3n Re4e
+2s re7s re6s re5w rd5s
+3g Md2n Md3s rd4s Hf2n
+3s rd7s rd6e
+4g rd3w rc3x Md2n Md3n Md4n
+4s re6e hf7w rf6x he7s he6e
+5g hf6x Rf4n Hf3x Md5n Md6n
+5s

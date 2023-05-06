@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5757a820-246c-47c2-ac5a-31c58c4af3cc" name="Changes" comment="Fixed .gitkeep issue with replays" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2MbVeTcEafi0tgc3erG0gT1GdWL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/arsen/Downloads/panyuars-master (3)/panyuars-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.All in Arimaa">
+    <configuration name="All in Arimaa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Arimaa" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IMoveHandlerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Arimaa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.cvut.fel.pjv.Controllers.GameLogicControllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cz.cvut.fel.pjv.Controllers.GameLogicControllers" />
+      <option name="MAIN_CLASS_NAME" value="cz.cvut.fel.pjv.Controllers.GameLogicControllers.IMoveHandlerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in Arimaa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Arimaa" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/Arimaa/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Arimaa" />
+        <item itemvalue="JUnit.java in Arimaa" />
+        <item itemvalue="JUnit.IMoveHandlerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5757a820-246c-47c2-ac5a-31c58c4af3cc" name="Changes" comment="" />
+      <created>1678036363616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678036363616</updated>
+      <workItem from="1678036364880" duration="31000" />
+      <workItem from="1678036494519" duration="472000" />
+      <workItem from="1678037134583" duration="8604000" />
+      <workItem from="1678172072043" duration="3232000" />
+      <workItem from="1678176199963" duration="7790000" />
+      <workItem from="1678391201057" duration="7736000" />
+      <workItem from="1678453146169" duration="14341000" />
+      <workItem from="1678569665003" duration="2084000" />
+      <workItem from="1678643727761" duration="10179000" />
+      <workItem from="1678740435897" duration="5107000" />
+      <workItem from="1678807987535" duration="3953000" />
+      <workItem from="1678893793862" duration="9668000" />
+      <workItem from="1678909043805" duration="5619000" />
+      <workItem from="1678958033818" duration="6922000" />
+      <workItem from="1678991101666" duration="2000" />
+      <workItem from="1679088237156" duration="77000" />
+      <workItem from="1679137108428" duration="12452000" />
+      <workItem from="1679157270781" duration="3812000" />
+      <workItem from="1679218803410" duration="13484000" />
+      <workItem from="1679251178194" duration="5743000" />
+      <workItem from="1679608110189" duration="10000" />
+      <workItem from="1681423248321" duration="2587000" />
+      <workItem from="1681468738358" duration="337000" />
+      <workItem from="1681469086701" duration="171000" />
+      <workItem from="1681469268716" duration="1539000" />
+      <workItem from="1681724019180" duration="162000" />
+      <workItem from="1683379328933" duration="302000" />
+    </task>
+    <task id="LOCAL-00001" summary="My first commit!">
+      <created>1678036809622</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678036809622</updated>
+    </task>
+    <task id="LOCAL-00002" summary="My first commit!">
+      <created>1678037176201</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678037176201</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created classes for the majority of basic entities (pieces, board, player, etc.)">
+      <created>1678045397931</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678045397931</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added image processing and board drawing">
+      <created>1678185342786</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678185342786</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Finished image loading and binding to pieces + drawing">
+      <created>1678399922694</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678399922694</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Implemented MouseListener with Observer pattern. Implemented movement of pieces except redrawing and dragging">
+      <created>1678467637124</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678467637124</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added dragging to pieces">
+      <created>1678571748410</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678571748410</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Improved structure with further decoupling">
+      <created>1678654941230</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678654941230</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Improved maintainability of BoardViewManager">
+      <created>1678745645152</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678745645152</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added basic implementation of Players classes. Imposed some limitations on moving pieces (now moves of each player are counted)">
+      <created>1678825036881</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678825036881</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Limited movement of pieces, according to Arimaa rules. General improvements">
+      <created>1678914738456</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678914738456</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Finished piece movement, added win conditions, general impovements">
+      <created>1679150938305</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679150938305</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Interface improved">
+      <created>1679232316916</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679232316916</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Bug fixes and added MoveEnder class">
+      <created>1679258121620</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1679258121620</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Minor fixes">
+      <created>1681466683886</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1681466683886</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="My first commit!" />
+    <MESSAGE value="Created classes for the majority of basic entities (pieces, board, player, etc.)" />
+    <MESSAGE value="Added image processing and board drawing" />
+    <MESSAGE value="Finished image loading and binding to pieces + drawing" />
+    <MESSAGE value="Implemented MouseListener with Observer pattern. Implemented movement of pieces except redrawing and dragging" />
+    <MESSAGE value="Added dragging to pieces" />
+    <MESSAGE value="Improved structure with further decoupling" />
+    <MESSAGE value="Improved maintainability of BoardViewManager" />
+    <MESSAGE value="Added basic implementation of Players classes. Imposed some limitations on moving pieces (now moves of each player are counted)" />
+    <MESSAGE value="Limited movement of pieces, according to Arimaa rules. General improvements" />
+    <MESSAGE value="Finished piece movement, added win conditions, general impovements" />
+    <MESSAGE value="Interface improved" />
+    <MESSAGE value="Bug fixes and added MoveEnder class" />
+    <MESSAGE value="Minor fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor fixes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arimaa/src/main/java/cz/cvut/fel/pjv/Controllers/BoardMouseListener.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

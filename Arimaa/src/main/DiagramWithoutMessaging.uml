@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="354.0" y="667.5">cz.cvut.fel.pjv.Controllers.GameLogicControllers.MoveHandler</node>
+    <node x="821.5" y="787.5">cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.EndMoveButtonListener</node>
+    <node x="565.0" y="787.5">cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.ReturnToMenuButtonListener</node>
+    <node x="28.5" y="667.5">cz.cvut.fel.pjv.Controllers.MessageControllers.MessageBroker</node>
+    <node x="-157.0" y="547.5">cz.cvut.fel.pjv.Controllers.InputControllers.MouseControllers.MouseListenerAll</node>
+    <node x="-462.0" y="427.5">cz.cvut.fel.pjv.Controllers.PlayerControllers.Player</node>
+    <node x="197.0" y="667.5">cz.cvut.fel.pjv.utils.ArimaaTimer</node>
+    <node x="-869.0" y="547.5">cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.ButtonActionListener</node>
+    <node x="-875.0" y="667.5">cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.AbstractButtonListener</node>
+    <node x="-643.0" y="787.5">cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.ReturnToRecordsButtonListener</node>
+    <node x="-349.0" y="427.5">cz.cvut.fel.pjv.Controllers.PlayerControllers.AIPlayer</node>
+    <node x="-476.5" y="307.5">cz.cvut.fel.pjv.Controllers.PlayerControllers.BasePlayer</node>
+    <node x="350.5" y="787.5">cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.ReplayButtonListener</node>
+    <node x="-444.0" y="667.5">cz.cvut.fel.pjv.Controllers.InputControllers.MouseControllers.PieceDeploymentMouseListener</node>
+    <node x="-624.5" y="427.5">cz.cvut.fel.pjv.Controllers.PieceCreationControllers.IPieceCreator</node>
+    <node x="217.0" y="547.5">cz.cvut.fel.pjv.utils.ITimer</node>
+    <node x="-654.0" y="667.5">cz.cvut.fel.pjv.Controllers.PieceCreationControllers.RandomPieceCreator</node>
+    <node x="119.0" y="787.5">cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.NextMoveButtonListener</node>
+    <node x="-637.0" y="547.5">cz.cvut.fel.pjv.Controllers.PieceCreationControllers.BasePieceCreator</node>
+    <node x="-464.0" y="187.5">cz.cvut.fel.pjv.Controllers.PlayerControllers.IPlayer</node>
+    <node x="-132.5" y="787.5">cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.GameRecordsButtonListener</node>
+    <node x="-361.5" y="787.5">cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.StartGameButtonListener</node>
+    <node x="352.0" y="547.5">cz.cvut.fel.pjv.Controllers.GameLogicControllers.IMoveHandler</node>
+    <node x="-167.5" y="667.5">cz.cvut.fel.pjv.Controllers.InputControllers.MouseControllers.BoardMouseListener</node>
+    <node x="26.5" y="547.5">cz.cvut.fel.pjv.Controllers.MessageControllers.IMessageBroker</node>
+    <node x="-884.5" y="787.5">cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.BeginGameButtonListener</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.EndMoveButtonListener" target="cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.AbstractButtonListener" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="922.0" y="762.0" />
+      <point x="-778.0" y="762.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.StartGameButtonListener" target="cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.AbstractButtonListener" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="-258.0" y="762.0" />
+      <point x="-778.0" y="762.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.pjv.Controllers.GameLogicControllers.MoveHandler" target="cz.cvut.fel.pjv.Controllers.GameLogicControllers.IMoveHandler" relationship="REALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.ReplayButtonListener" target="cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.AbstractButtonListener" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="442.0" y="762.0" />
+      <point x="-778.0" y="762.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.BeginGameButtonListener" target="cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.AbstractButtonListener" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.pjv.Controllers.PlayerControllers.BasePlayer" target="cz.cvut.fel.pjv.Controllers.PlayerControllers.IPlayer" relationship="REALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.pjv.utils.ArimaaTimer" target="cz.cvut.fel.pjv.utils.ITimer" relationship="REALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.GameRecordsButtonListener" target="cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.AbstractButtonListener" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="-18.0" y="762.0" />
+      <point x="-778.0" y="762.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.pjv.Controllers.PlayerControllers.Player" target="cz.cvut.fel.pjv.Controllers.PlayerControllers.BasePlayer" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.ReturnToRecordsButtonListener" target="cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.AbstractButtonListener" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="-518.0" y="762.0" />
+      <point x="-778.0" y="762.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.pjv.Controllers.MessageControllers.MessageBroker" target="cz.cvut.fel.pjv.Controllers.MessageControllers.IMessageBroker" relationship="REALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.pjv.Controllers.InputControllers.MouseControllers.BoardMouseListener" target="cz.cvut.fel.pjv.Controllers.InputControllers.MouseControllers.MouseListenerAll" relationship="REALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.pjv.Controllers.PieceCreationControllers.BasePieceCreator" target="cz.cvut.fel.pjv.Controllers.PieceCreationControllers.IPieceCreator" relationship="REALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.pjv.Controllers.PlayerControllers.AIPlayer" target="cz.cvut.fel.pjv.Controllers.PlayerControllers.BasePlayer" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="-298.0" y="402.0" />
+      <point x="-418.0" y="402.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.AbstractButtonListener" target="cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.ButtonActionListener" relationship="REALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.pjv.Controllers.PieceCreationControllers.RandomPieceCreator" target="cz.cvut.fel.pjv.Controllers.PieceCreationControllers.BasePieceCreator" relationship="GENERALIZATION">
+      <point x="-0.0" y="-14.5" />
+      <point x="-562.5" y="566.8200636942676" />
+      <point x="-573.0" y="566.8200636942676" />
+      <point x="-15.0" y="-14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.NextMoveButtonListener" target="cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.AbstractButtonListener" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="222.0" y="762.0" />
+      <point x="-778.0" y="762.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.pjv.Controllers.InputControllers.MouseControllers.PieceDeploymentMouseListener" target="cz.cvut.fel.pjv.Controllers.InputControllers.MouseControllers.MouseListenerAll" relationship="REALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="-318.0" y="642.0" />
+      <point x="-78.0" y="642.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.ReturnToMenuButtonListener" target="cz.cvut.fel.pjv.Controllers.InputControllers.ButtonControllers.AbstractButtonListener" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="682.0" y="762.0" />
+      <point x="-778.0" y="762.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="0.5664948453608247" showDependencies="false" x="-158.06551410373106" y="529.6524112829851" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
